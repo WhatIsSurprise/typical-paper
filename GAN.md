@@ -1,4 +1,4 @@
-# typical GAN papers
+# Typical GAN Papers
 | Algorithm | Paper Link | Year |
 | ------ | ------ | ------ |
 | GAN | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | 2014.06 |
