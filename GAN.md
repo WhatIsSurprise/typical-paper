@@ -1,7 +1,7 @@
 # typical GAN papers
 | Algorithm | Paper Link | Year |
 | ------ | ------ | ------ |
-| GAN | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | 2014.6 |
+| GAN | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | 2014.06 |
 | cGAN | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014.11 |
 | DCGAN | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) | 2016.01 |
 | coGAN | [Coupled Generative Adversarial Networks](https://arxiv.org/abs/1606.07536) | 2016.09 |
